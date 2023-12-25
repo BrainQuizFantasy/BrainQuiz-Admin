@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "brainquiz-a1a96",
+  "private_key_id": "cceb779eb5fe85b2ee31c36fbc262c9e177556b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYRCpNo00c6keX\n04OPWmkcHLN4ha+jsykeFn5OHGbwM1KLC2EKIhztLtgFUsdzfe/SgteeXYrt8Yj0\nNFnZc11H/I8jb9o7rXzbbumvIKo3XlJ6xbCl81ZFK4uVFCbqkTWTPCK570lf/QTz\nUqIEFCtg54u8HkXKj7jUUfgplLzpU52mWzRzt4HAyN0BGyEZPzTPOjQ3cpFjvfkn\nWvxMj1Zg27jXXNW7Xi155kWFLf4J5zsXrX7ncwuhxTeKG44tqPNXsXYAEa8Ih6Vx\nsUlqzkrvYIpH6q7PCkBgnDJDybqp3EIlOLS6DYN2tTIqPnjeGAPOjQ/bp5MfhTo/\ngtH5D1vVAgMBAAECggEAB5JkNCYpwIVZ+A/Zm/hX/8Dhn92uBUr0gX2G3GWHLOyw\nbx+qvLFDlPveXC1oo7KgiWxeQo7OSNTZBaPQ0AJvohPKHm4CgTM4YUUbs8zBCi3T\nli1cgnQeVyQ6Nbih0spTyrWT2IEwuehAJcV3LxK9sXzyMvGicNdCzrQgzhiKaGPf\nYd177vS7AmD19iS48rJuMGgGUQdiX4MYiHY2LLOZkJ4CZfoEUWu6k1mBK0A3ti5N\nv26HjjUPcDce4kvgzGgqlIUGclN01n7uk53j1sHz1cHE4lWkY+eOYRvwzEjSf5+7\nojgMRVjS/1L0hPRCqJc0ShcF0faTfruKls5fTRCiQQKBgQDVfGTuq1y0MqLDI6wh\nrEfEyxNwqtZCSzqBxZ3JtYKdCEUXDcNqPjuqgqgkw/yiGHZTTnHpzthozVaG/Js/\ndwGADEIgqahwkkK8Yre3XfsAMFy/dGlgym2Evw8nci2ilqjN1nvCnlSTyuAlgHwh\nAsTPJhoA0vGIGhiZWFgA8nuy5QKBgQC2lsRAP9u1goaJKh/3sdOgftUXhE6/Mnox\nlYZRi9Wjab8BnyYVNGRqr+lUdf0L8jmwbYqHInQENleqjNAbyiM/tftkyN5aCZJb\nTuEa6jNQbLlGYT/kjwZIvHgThTVxqt2781QypZK7qIlqnjq2/psC6WMeqrttV/q0\nCtUvzaHGMQKBgDnWMJYEcOIU0cmiMXER9oOXLNYaQl/Fd71Op3fNJ+yZH/al8Ooo\noAuKyDjlq9zSWcQp/WyFcFW8Q5PgfcLM3+gr6gJlVE/jIBdfezw/Rs//SjFIPYBO\ndys+g8GBCmIBBQx27iKEuI8tqFognABpep5QST0t6OehgkaRC45+IwsNAoGAa5ax\nM06tjunHjqFkztZY5hR2SfIrWJxMxlTeHcTw8OaJp1H45bvGg9r9+UfBAL4NYjlZ\nzEDv7d97jsKEiit008DOzldSNem39Neo6uwfqn82ORNqy6m/QTLU6mOu1zigiXRb\nI7DOoocv2cQ8wsGJ45BUWKiv4kFaN6a+cfmQHrECgYBZcSCLQq+MntaEHb/SJew5\nILfquyAYceug45gMWhQ22j4uAXGZUXknBCchgHxrXRRC+JANbWi1K70PsFOQrjqB\nesFanRfM2+mOT7cJgkjG0NqkXemo5qEWbEDNng98UDSxX6tYLC1WtejoDjHiW38o\n9wysR+lelUg03MZKw3LIqA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-32hh9@brainquiz-a1a96.iam.gserviceaccount.com",
+  "client_id": "101953109734548289716",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-32hh9%40brainquiz-a1a96.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
